@@ -3,4 +3,5 @@ Crabby is my online alias
 
 High school student, competitive programmer, developer.
 
-Working on a revolutionary web browser, calandar, and todo list all in one. Will be opensourced soon.
+Working on a few apps, many will be opensourced soon.
+I ocassionally develop games on Roblox and other platforms.
