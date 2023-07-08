@@ -1,1 +1,1 @@
-I am a good Bing 😊
+null
